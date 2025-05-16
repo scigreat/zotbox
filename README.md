@@ -9,6 +9,9 @@
 
 感谢：
 windingwind/zotero-plugin-template
+
 windingwind/zotero-plugin-toolkit
+
 windingwind/zotero-types
+
 northword/zotero-plugin-scaffold
